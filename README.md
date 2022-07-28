@@ -1,5 +1,5 @@
 ### Olá Sou Vicente Lopes. 👋
-#### Nasci em 15 de outubro de 1998 e sou de São Gonçalo/RJ. Atualmente estou cursando Ciência da Computação na Universidade Estadual do Estado do Rio de Janeiro (UERJ). Além de graduando, possuo formação técnica em Montagem e Manutenção de Computadores, cursado no Senai (finalizado em 2016). E também já fiz diversos outros cursos em: Python, Pandas, Jupyter, Django, JS, Node.js, HTML, CSS, Bootstrap, C, Java, metodos ágeis etc. <br>
+#### Nasci em 15 de outubro de 1998 e sou de São Gonçalo/RJ. Atualmente estou cursando Ciência da Computação na Universidade Estadual do Estado do Rio de Janeiro (UERJ). Além de graduando, possuo formação técnica em Montagem e Manutenção de Computadores, cursado no Senai (finalizado em 2016). E também já fiz diversos outros cursos sobre Python, Pandas, Jupyter, Django, JS, Node.js, HTML, CSS, Bootstrap, SQL, C, Java, metodos ágeis etc. <br>
 
 ##
 <div align="center">
