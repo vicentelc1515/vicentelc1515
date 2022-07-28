@@ -1,6 +1,9 @@
 ### Olá Sou Vicente Lopes 👋
-#### >> Estudo Programação desde 2018. Comecei com Python e tenho me desenvolvido tanto em Data Science quanto em desenvolvimento de automatizações e aplicações. 
-
+#### >> Olá, Sou Vicente, nasci em 15 de outubro de 1998 e sou de São Gonçalo/RJ.
+          Atualmente estou cursando Ciência da Computação na Universidade Estadual
+          do Estado do Rio de Janeiro (UERJ). <br>
+          Além de graduando, possuo formação técnica em Montagem e Manutenção de Computadores, cursado 
+          no Senai (finalizado em 2016).
 ##
 <div align="center">
   <a href="https://github.com/vicentelc1515">
