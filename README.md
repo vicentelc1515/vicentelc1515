@@ -1,5 +1,5 @@
 ### Olá Sou Vicente Lopes 👋
-#### >> Olá, Sou Vicente, nasci em 15 de outubro de 1998 e sou de São Gonçalo/RJ. Atualmente estou cursando Ciência da Computação na Universidade Estadual do Estado do Rio de Janeiro (UERJ).Além de graduando, possuo formação técnica em Montagem e Manutenção de Computadores, cursado no Senai (finalizado em 2016). <br>
+#### nasci em 15 de outubro de 1998 e sou de São Gonçalo/RJ. Atualmente estou cursando Ciência da Computação na Universidade Estadual do Estado do Rio de Janeiro (UERJ).Além de graduando, possuo formação técnica em Montagem e Manutenção de Computadores, cursado no Senai (finalizado em 2016). <br>
 ##
 <div align="center">
   <a href="https://github.com/vicentelc1515">
