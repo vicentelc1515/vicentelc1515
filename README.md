@@ -2,11 +2,17 @@
 #### Analista de Dados | Experiência em Power BI, DAX, SQL e Automação com Python e VBA
 
 🔹 Principais habilidades técnicas:
+
 ✔ Power BI | DAX | Power Query (Linguagem M) | Dashboards interativos | Modelagem de dados avançada
+
 ✔ Conexão com bancos de dados (SQL Server, PostgreSQL, MySQL) e fontes externas (Excel, APIs)
+
 ✔ SQL (Views, Procedures, Functions, Triggers) | ETL | Estatística
+
 ✔ Python para análise e automação (Pandas, NumPy, Matplotlib, PyAutoGUI)
+
 ✔ Automação de tarefas com VBA e integração com Excel e Access
+
 ✔ Métodos ágeis
 
 Se você busca um profissional para transformar dados em valor estratégico, estou aberto para trocar ideias e oportunidades! 🚀 <br>
